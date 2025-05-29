@@ -14,13 +14,13 @@ body {
 }
 
 .wrapper {
-  margin: 0 auto;
+  margin:  auto;
   width: 60%;
   padding-bottom: 40px;
 }
 
 #content {
-  padding: 20px;
+  padding: 60px;
   background: rgba(255,255,255,.85);
 }
 
